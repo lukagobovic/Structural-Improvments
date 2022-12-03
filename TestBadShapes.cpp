@@ -13,7 +13,6 @@
 #include <iostream>
 #include <string>
 #include <vector>
-
 #include "ShapesBad.h"
 
 using namespace std;
